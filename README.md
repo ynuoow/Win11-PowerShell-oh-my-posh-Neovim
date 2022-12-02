@@ -25,7 +25,7 @@ npm i -g black
 npm i -g rustfmt
 cargo install black
 gem install rubocop
-
+https://julialang.org/downloads/
 ## java
 
 scoop bucket add java
